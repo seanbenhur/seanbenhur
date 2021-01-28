@@ -7,7 +7,7 @@ I am Sean benhur, I work mostly on Machine learning,Deep learning and Artificial
 - 🔭 I’m currently working on Machine Translation
 - 🌱 I’m currently learning AWS, DevOps..
 - 👯 I’m looking to collaborate on Full Stack AI Project 
-- 💬 Ask me about Machine Learning
+- 💬 Ask me about Machine Learning,Deep Learning,NLP, Would Love to help!
 - 📫 How to reach me: PM me on  [LinkedIn](https://www.linkedin.com/in/seanbenhur/)
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: Spelling of the spelling is s-p-e-l-l-i-n-g
