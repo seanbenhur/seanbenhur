@@ -12,9 +12,6 @@ I am Sean benhur, I work mostly on Machine learning,Deep learning and Artificial
 - 😄 Pronouns: His/Him, Please pronounce my name as Shawn not seen :(
 - ⚡ Fun fact: Spelling of the spelling is s-p-e-l-l-i-n-g
 
-<!--![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=seanbenhur&show_icons=true&count_private=true&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanbenhur&hide=Jupyter%20Notebook&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img
@@ -163,7 +160,7 @@ I am Sean benhur, I work mostly on Machine learning,Deep learning and Artificial
     />
   </a>
 
-  <a href="https://www.linux.org/" target="_blank">
+ <a href="https://www.linux.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
