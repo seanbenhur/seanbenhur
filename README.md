@@ -9,7 +9,7 @@ I am Sean benhur, I work mostly on Machine learning,Deep learning and Artificial
 - 👯 I’m looking to collaborate on Full Stack AI Project 
 - 💬 Ask me about Machine Learning,Deep Learning,NLP, Would Love to help!
 - 📫 How to reach me: PM me on  [LinkedIn](https://www.linkedin.com/in/seanbenhur/)
-- 😄 Pronouns: His/Him
+- 😄 Pronouns: His/Him, Please pronounce my name as Shawn not seen :(
 - ⚡ Fun fact: Spelling of the spelling is s-p-e-l-l-i-n-g
 
 <!--![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=seanbenhur&show_icons=true&count_private=true&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)
