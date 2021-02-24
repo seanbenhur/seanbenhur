@@ -4,7 +4,7 @@ I am Sean benhur, I work mostly on Machine learning,Deep learning and Artificial
 
 ![](https://komarev.com/ghpvc/?username=seanbenhur&color=green)
 
-- 🔭 I’m currently working on Machine Translation
+- 🔭 I’m currently working on Pytorch Projects
 - 🌱 I’m currently learning AWS, DevOps..
 - 👯 I’m looking to collaborate on Full Stack AI Project 
 - 💬 Ask me about Machine Learning,Deep Learning,NLP, Would Love to help!
