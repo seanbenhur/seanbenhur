@@ -1,5 +1,5 @@
 ### Hi Geeks👋
-I am Sean benhur, I work mostly on Machine learning,Deep learning and Artificial Intelligence, I spend most of my time thinking💭 about how interdisciplinary
+I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intelligence, I spend most of my time thinking💭 about how interdisciplinary
  collabaration can help new innovations in every fields🤩
 
 ![](https://komarev.com/ghpvc/?username=seanbenhur&color=green)
