@@ -12,10 +12,7 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
 - 😄 Pronouns: His/Him, Please pronounce my name as Shawn not seen :(
 - ⚡ Fun fact: Spelling of the spelling is s-p-e-l-l-i-n-g
 
-[![Sean's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=seanbenhur&theme=xcode)](https://git.io/seanbenhur)
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api/?username=seanbenhur&theme=prussian&show_icons=true&count_private=true)
-   <br />
-   <br />
+
 <b>Technical Skills</b>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
@@ -243,5 +240,14 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
     />
   </a>
 </p>
+ <br />
+  <br />
+
+
+  [![Sean's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=seanbenhur&theme=xcode)](https://git.io/seanbenhur)
+  
+   ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api/?username=seanbenhur&theme=prussian&show_icons=true&count_private=true)
+  
+
 
 
