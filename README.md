@@ -5,7 +5,7 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
 ![](https://komarev.com/ghpvc/?username=seanbenhur&color=green)
 
 - 🔭 I’m currently working on Pytorch Projects
-- 🌱 I’m currently learning AWS, DevOps..
+- 🌱 I’m currently learning computer vision
 - 👯 I’m looking to collaborate on Full Stack AI Project 
 - 💬 Ask me about Machine Learning,Deep Learning,NLP, Would Love to help!
 - 📫 How to reach me: PM me on  [LinkedIn](https://www.linkedin.com/in/seanbenhur/)
@@ -13,6 +13,10 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
 - ⚡ Fun fact: Spelling of the spelling is s-p-e-l-l-i-n-g
 
 [![Sean's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=seanbenhur&theme=xcode)](https://git.io/seanbenhur)
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api/?username=seanbenhur&theme=prussian&show_icons=true&count_private=true)
+   <br />
+   <br />
+   
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img
@@ -240,4 +244,4 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
   </a>
 </p>
 
-[![Sean's github stats](https://github-readme-stats.vercel.app/api?username=seanbenhur&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
