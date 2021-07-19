@@ -16,7 +16,7 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api/?username=seanbenhur&theme=prussian&show_icons=true&count_private=true)
    <br />
    <br />
-   
+<b>Technical Skills</b>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img
