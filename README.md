@@ -13,7 +13,7 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
 - ⚡ Fun fact: Spelling of the spelling is s-p-e-l-l-i-n-g
 
 
-<b>Technical Skills</b>
+## Technical Skills
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img
@@ -240,9 +240,9 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
     />
   </a>
 </p>
- <br />
-  <br />
 
+### Connect with me 
+<a href="https://linkedin.com/in/seanbenhur" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/seanbenhur" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://polywork.com/seanbenhur" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/EEo2g39.png" width=40px height=40px title="source: imgur.com" /></a>
 
   [![Sean's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=seanbenhur&theme=xcode)](https://git.io/seanbenhur)
   
