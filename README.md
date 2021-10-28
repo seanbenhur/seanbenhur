@@ -7,7 +7,7 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
 
 - Building an Automated Invoice Extraction System, intelligent OCR pipelines on ImpigerTechnologies
 - Writing DataScience content as a freelance work
-- Working on developing offesive and hate speech detection on several low resource languages
+- Working on developing NLP systems on several low resource languages
 
 
 
