@@ -2,15 +2,13 @@
 I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intelligence, I spend most of my time thinking💭 about how interdisciplinary
  collabaration can help new innovations in every fields🤩
 
-![](https://komarev.com/ghpvc/?username=seanbenhur&color=green)
 
-- 🔭 I’m currently working on Pytorch Projects
-- 🌱 I’m currently learning computer vision
-- 👯 I’m looking to collaborate on Full Stack AI Project 
-- 💬 Ask me about Machine Learning,Deep Learning,NLP, Would Love to help!
-- 📫 How to reach me: PM me on  [LinkedIn](https://www.linkedin.com/in/seanbenhur/)
-- 😄 Pronouns: His/Him, Please pronounce my name as Shawn not seen :(
-- ⚡ Fun fact: Spelling of the spelling is s-p-e-l-l-i-n-g
+## Things I do
+
+- Building an Automated Invoice Extraction System, repsonsibe OCR pipelines on ImpigerTechnologies
+- Writing DataScience content as a freelance work
+- Working on developing offesive and hate speech detection on several low resource languages
+
 
 
 ## Technical Skills
@@ -250,4 +248,5 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
   
 
 
+![](https://komarev.com/ghpvc/?username=seanbenhur&color=green)
 
