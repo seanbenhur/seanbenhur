@@ -5,9 +5,12 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
 
 ## Things I do
 
-- Building an Automated Invoice Extraction System, intelligent OCR pipelines on ImpigerTechnologies
-- Writing DataScience content as a freelance work
 - Working on developing NLP systems on several low resource languages
+- - Writing DataScience content as a freelance work
+
+##  Things I used to do
+
+- Built an Automated Invoice Extraction System, intelligent OCR pipelines on ImpigerTechnologies
 
 
 
