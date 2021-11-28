@@ -6,7 +6,7 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
 ## Things I do
 
 - Working on developing NLP systems on several low resource languages
-- - Writing DataScience content as a freelance work
+- Writing DataScience content as a freelance work
 
 ##  Things I used to do
 
