@@ -8,9 +8,10 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
 - Working on developing NLP systems on several low resource languages
 - Writing DataScience content as a freelance work
 
-##  Things I used to do
+##  Things I previously did
 
 - Built an Automated Invoice Extraction System, intelligent OCR pipelines on ImpigerTechnologies
+- Written blogposts and tutorial notebooks on Medium and previous internship
 
 
 
