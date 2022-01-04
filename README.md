@@ -1,16 +1,14 @@
-### Hi Geeks👋
-I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intelligence, I spend most of my time thinking💭 about how interdisciplinary
- collabaration can help new innovations in every fields🤩
-
+### Hi there👋
 
 <p float="center">
   <img src="https://store-images.s-microsoft.com/image/apps.20966.13599037783181022.b05b7adf-6b7a-44ae-9a70-9dc9370ea7e6.4cd88c60-6ff1-4b0f-aed6-8e2efa5629c1"  width="80"/>
   &emsp;
   <img src="Logo_Galway.png"  height="80",height="120",width="8000"/>
   &emsp;
-  <img src="psglogo.jpg"  width="18"/>
+  <img src="psglogo.jpg" height="80", width="240"/>
 </p>
 
+I am Sean, I am currently a prefinal year MSc Software Systems student at [PSGCAS](https://www.psgcas.ac.in/) and a Deep Learning Intern at NVIDIA, working on NLP, Also I am supervised by [Dr. Bharathi Raja Chakravarthi](https://scholar.google.com/citations?user=irCl028AAAAJ&hl=en) and Interning with him as a Research Intern(Remote) at Insight SFI Research Centre, National University of Ireland, Galway.
 ## Things I do
 
 - Working on developing NLP systems on several low resource languages
