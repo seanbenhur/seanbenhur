@@ -6,9 +6,9 @@ I am Sean, I work mostly on Machine learning,Deep learning and Artificial Intell
 <p float="center">
   <img src="https://store-images.s-microsoft.com/image/apps.20966.13599037783181022.b05b7adf-6b7a-44ae-9a70-9dc9370ea7e6.4cd88c60-6ff1-4b0f-aed6-8e2efa5629c1"  width="80"/>
   &emsp;
-  <img src="nuig.png"  width="80"/>
+  <img src="Logo_Galway.png"  height="80",height="120",width="8000"/>
   &emsp;
-  <img src="psgcas.png"  width="18
+  <img src="psglogo.jpg"  width="18"/>
 </p>
 
 ## Things I do
