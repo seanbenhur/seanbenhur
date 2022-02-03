@@ -8,7 +8,7 @@
   <img src="psglogo.jpg" height="80", width="240"/>
 </p>
 
-I am Sean, currently a prefinal year MSc Software Systems student at [PSGCAS](https://www.psgcas.ac.in/) and a Deep Learning Intern at NVIDIA, working on NLP, Also I am supervised by [Dr. Bharathi Raja Chakravarthi](https://scholar.google.com/citations?user=irCl028AAAAJ&hl=en) and Interning with him as a Research Intern(Remote) at Insight SFI Research Centre, National University of Ireland, Galway.
+I am Sean, currently a prefinal year MSc Software Systems student at [PSGCAS](https://www.psgcas.ac.in/) and a Deep Learning Intern at NVIDIA,Also I am working as a Research Intern(Remote) at Insight SFI Research Centre, National University of Ireland, Galway.
 ## Things I do
 
 - Working on developing NLP systems on several low resource languages
