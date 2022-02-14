@@ -14,12 +14,6 @@ I am Sean, currently a prefinal year MSc Software Systems student at [PSGCAS](ht
 - Working on developing NLP systems on several low resource languages
 - Writing DataScience content as a freelance work
 
-##  Things I previously did
-
-- Built an Automated Invoice Extraction System, intelligent OCR pipelines on ImpigerTechnologies
-- Written blogposts and tutorial notebooks on Medium and previous internship
-
-
 
 ## Technical Skills
 <p align="left">
