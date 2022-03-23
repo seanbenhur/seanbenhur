@@ -1,18 +1,15 @@
 ### Hi there👋
 
-<p float="center">
+<!--<p float="center">
   <img src="https://store-images.s-microsoft.com/image/apps.20966.13599037783181022.b05b7adf-6b7a-44ae-9a70-9dc9370ea7e6.4cd88c60-6ff1-4b0f-aed6-8e2efa5629c1"  width="80"/>
   &emsp;
   <img src="Logo_Galway.png"  height="80",height="120",width="8000"/>
   &emsp;
   <img src="psglogo.jpg" height="80", width="240"/>
-</p>
+</p> --->
 
 I am Sean, currently a prefinal year MSc Software Systems student at [PSGCAS](https://www.psgcas.ac.in/) and a Deep Learning Intern at NVIDIA,Also I am working as a Research Intern(Remote) at Insight SFI Research Centre, National University of Ireland, Galway.
-## Things I do
 
-- Working on developing NLP systems on several low resource languages
-- Writing DataScience content as a freelance work
 
 
 ## Technical Skills
