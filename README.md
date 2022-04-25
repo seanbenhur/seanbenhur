@@ -8,7 +8,7 @@
   <img src="psglogo.jpg" height="80", width="240"/>
 </p> --->
 
-I am Sean, currently a prefinal year MSc Software Systems student at [PSGCAS](https://www.psgcas.ac.in/) and a Deep Learning Intern at NVIDIA,Also I am working as a Research Intern(Remote) at Insight SFI Research Centre, National University of Ireland, Galway.
+I am Sean, currently a prefinal year MSc Software Systems student at [PSGCAS](https://www.psgcas.ac.in/) and working as a Research Intern(Remote) at Insight SFI Research Centre, National University of Ireland, Galway. 
 
 
 
