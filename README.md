@@ -8,7 +8,7 @@
   <img src="psglogo.jpg" height="80", width="240"/>
 </p> --->
 
-[Actively looking for ML Full Time roles - 2023, - Will be able to join from Jan 2023]
+<b>[Actively looking for ML Full Time roles - 2023, - Will be able to join from Jan 2023]</b>
 
 I am Sean, currently a final year MSc Software Systems student at [PSGCAS](https://www.psgcas.ac.in/), interested in solving problems through Machine Learning and Deep Learning.
 
