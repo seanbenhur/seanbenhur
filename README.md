@@ -8,7 +8,7 @@
   <img src="psglogo.jpg" height="80", width="240"/>
 </p> --->
 
-<b>I am in the job market! I'm looking for Machine Learning Research and Engineering-related roles starting from January/Feb 2023(Intern+Full Time) or starting from June 2023 Full Time. Having 2+ years of experience working in Industry+Research roles with 7 publications. I can assure you, I will be a valuable asset to your team</b>
+<b>I am in the job market! I'm looking for Machine Learning Research and Engineering-related roles starting from January/Feb 2023(Intern+Full Time) or starting from June 2023 Full Time. Having 2+ years of experience working in Industry+Research roles with 7 publications. I can assure you, I can boost the team with my mix of engineering and ML research skills, along with a passion for high ROI problem solving</b>
 
 I am Sean, currently a final year MSc Software Systems student at [PSGCAS](https://www.psgcas.ac.in/), interested in solving problems through Machine Learning and Deep Learning.
 
