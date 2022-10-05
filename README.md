@@ -1,14 +1,8 @@
 ### Hi there👋
 
-<!--<p float="center">
-  <img src="https://store-images.s-microsoft.com/image/apps.20966.13599037783181022.b05b7adf-6b7a-44ae-9a70-9dc9370ea7e6.4cd88c60-6ff1-4b0f-aed6-8e2efa5629c1"  width="80"/>
-  &emsp;
-  <img src="Logo_Galway.png"  height="80",height="120",width="8000"/>
-  &emsp;
-  <img src="psglogo.jpg" height="80", width="240"/>
-</p> --->
 
-<b>I am in the job market! I'm looking for Machine Learning Research and Engineering-related roles starting from January/Feb 2023(Intern+Full Time) or starting from June 2023 Full Time. Having 2+ years of experience working in Industry+Research roles with 7 publications. I can assure you, I can boost the team with my mix of engineering and ML research skills, along with a passion for high ROI problem solving</b>
+
+<b>I am in the job market! I'm looking for Machine Learning Research and Engineering-related roles starting from January/Feb 2023(Intern+Full Time) or starting from June 2023 Full Time. Having 2+ years of experience working in Industry+Research roles with 7 publications. I can assure you, I can boost the team with my mix of engineering and ML research skills, along with a passion for problem solving</b>
 
 I am Sean, currently a final year MSc Software Systems student at [PSGCAS](https://www.psgcas.ac.in/), interested in solving problems through Machine Learning and Deep Learning.
 
