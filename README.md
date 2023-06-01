@@ -3,7 +3,7 @@
 
 
 
-I am Sean, currently a final year MSc Software Systems student at [PSGCAS](https://www.psgcas.ac.in/), interested in solving problems through Machine Learning and Deep Learning.
+I am Sean, currently working as a ML Engineering Intern in Comcast, I am interested in solving problems through Machine Learning and Deep Learning.
 
 
 
